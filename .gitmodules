@@ -1,0 +1,3 @@
+[submodule "RM46L852-firmware"]
+	path = RM46L852-firmware
+	url = https://github.com/rafguevara14/RM46L852-firmware.git
